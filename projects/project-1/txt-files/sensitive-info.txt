@@ -1,0 +1,16 @@
+Sample text with placeholder data:
+
+Social Security Numbers (SSNs):
+This is a 123-45-6789 abarathdj
+agdfhs 987-65-4321 hgdfgfgfh
+
+Credit Card Numbers:
+1234-5678-9012-3456
+4567-8901-2345-6789
+
+Some random numbers:
+9876543210
+123456789
+56789012345
+
+This text file does not contain real Social Security Numbers or credit card numbers but instead uses placeholders. If you need to create such text files for testing or demonstration purposes, it's essential to use placeholders and not real sensitive information.

@@ -1,0 +1,11 @@
+Sample text with common typos:
+
+1. Multiple spaces between   words.
+2. Accidentally repeated words words  repeated words.
+3. Too many exclamation marks at the end of a sentence!!!!
+4. Missing spacesbetweenwords.
+
+5. Some other random text with mistakes:
+   This is a sentance. It's not grammatically correct but it happens. This is the last sentance.
+
+6. An example of a repeated repeated word.
